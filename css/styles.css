@@ -1,0 +1,98 @@
+/* Your Website Styles */
+
+
+/* Show Grid 
+.showgrid{
+
+	background: url("../img/grid-bg.png") repeat-y
+	z-index: 0;
+	
+} */
+
+
+body{
+
+	background: url("http://xn--80aqafcrtq.cc/img/4/8/6/%D0%91%D0%B0%D0%BC%D0%B1%D1%83%D0%BA,%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B,%20%D0%BE%D0%B1%D0%BE%D0%B8,%20texture%20wallpapers,%20green%20style,%202560x1600.jpg") no-repeat;
+	background-size: 1600px;
+	z-index: -2;
+
+}
+
+h1{
+	font-family: 'Artifika', sans-serif;
+	background-color: #29405D;
+	border-radius: 0px 30px 0px 30px;
+	font-size: 56px;
+	margin: 10px 0px 0px 0px;
+	width: 1005px;
+	height: 75px;
+	padding: 0px 5px 0px 0px;
+	text-indent: 25px;
+	color: white;
+
+}
+
+.name{
+
+	position: absolute;
+	margin: 0px 20px 0px 25px;
+	padding: 5px 15px 0px 15px;
+
+}
+
+h2{
+
+	font-family: 'Duru Sans', sans-serif;
+	z-index: 1;
+	margin: 5px 0px 10px 0px;
+}
+
+
+p{
+
+	font-family: helvetica;
+	position: relative;
+
+}
+
+.stone{
+
+	border-radius: 0px 0px 30px 0px;
+	position: absolute;
+	height: 185px;
+	margin: 5px 20px 0px 25px;
+	z-index: -1;
+	opacity: .9;
+}
+
+.stone2{
+	
+	border-radius: 0px 0px 30px 0px;
+	display: inline;
+	position: absolute;
+	height: 805px;
+	margin: 5px 100px 10px 350px;
+	z-index: 0;
+	opacity: .9;
+}
+
+.resume{
+
+	display: inline;
+	position: absolute;
+	margin: 5px 100px 10px 400px;
+	z-index: 0;
+
+}
+
+
+ul{
+	position: relative;
+	z-index: 1;
+
+}
+
+li{
+	padding: 5px;
+	list-style: none;
+}
